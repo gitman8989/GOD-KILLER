@@ -1,7 +1,10 @@
-import os
-choice = raw_input('to install press (Y) to uninstall press (N) >> ')
-run = os.system
-if choice =='Y' or choice=='y':
+import os.system
+choice = (Y) 
+run = run('chmod 777 GOD-KILLER')
+      run('mkdir /usr/share/god-killer')
+      run('cp GOD-KILLER /usr/share/god-killer/GOD-KILLER')
+
+    cmnd=(' #! /bin/sh \n exec /usr/share/god-kill
 
     run('chmod 777 GOD-KILLER')
     run('mkdir /usr/share/god-killer')
